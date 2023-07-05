@@ -1,7 +1,7 @@
 #include <FastLED.h>
 #include <Keypad.h>
 
-#define LED_PIN 6
+#define LED_PIN 4
 #define NUM_LEDS 30
 
 #define COLOR_ORDER GRB
